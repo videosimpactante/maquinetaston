@@ -702,8 +702,17 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-t1PBbUfGFt {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-t1PBbUfGFt .mbr-section-title {
+  color: #02ff4a;
+  text-align: center;
+}
 .cid-t1svIORhea {
-  padding-top: 5rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #000000;
 }
